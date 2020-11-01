@@ -1,0 +1,99 @@
+body{
+	position: absolute;
+	margin: 15px;
+}
+.imgback{
+	background: url("atis.jpg") scroll no-repeat;
+	position: relative;
+	width: 1200px;
+	padding: 15px;
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px 10px black;
+
+}
+.lien1{
+	background-color: rgb(0,128,192);
+	padding: 8px;
+	margin-top: 0px;
+}
+.lien1 a {
+	color: white;
+	text-decoration: none;
+	padding-right: 15px;
+}
+section option{
+	color: white;
+	text-decoration: none;
+	background-color: rgb(0,128,192);
+}
+#All{
+	border: 1px rgb(192,192,192) solid; 
+    box-shadow: 2px 2px 2px rgb(192,192,192);
+	position: relative;
+	margin: 5px;
+	padding: 5px;
+	display: flex;
+}
+th{
+	color: white;
+	font-size: 17px;
+	text-shadow: 3px 3px 3px black;
+	background-color: rgb(0,128,192);
+	height: 32px;
+}
+#tabl{
+	border-left:  1px rgb(192,192,192) solid; 
+	border-right:  1px rgb(192,192,192) solid; 
+	border-bottom:  1px rgb(192,192,192) solid; 
+	padding: 5px;
+}
+.leftside{
+	position: relative;
+	width: 900px;
+}
+.rightside{
+	position: relative;
+	width: 300px;
+}
+.rightside td{
+	position: relative;
+	width: 370px;
+}
+.rightside th{
+	position: absolute;
+	width: 300px;
+	padding-top: 3px;
+}
+p{
+	font-size: 20px;
+}
+#blue{
+	color: rgb(0,128,192);
+}
+#spons{
+	position: relative;
+	margin-top: 35px;
+	margin-left: 25px;
+}
+#allimg{
+	display: flex;
+	padding: 10px;
+	justify-content: space-between;
+}
+.img1 ,.img2,.img3,.img4{
+	padding-right: 12px;
+	margin: 10px;
+	border: 1px solid rgb(192,192,192);
+	width: 180px;
+}
+#keynom{
+	width: 900px;
+}
+footer{
+	background-color: rgb(0,128,192);
+	color: white;
+	font-size: 15px;
+	text-align: center;
+	padding: 2px;
+}
